@@ -1,5 +1,5 @@
-using Entitas;
 using UnityEngine;
+using Entitas;
 
 public class PlayerHealthFeature : MonoBehaviour
 {
